@@ -1,23 +1,25 @@
 # Alexandre Cangelli
 
-🌱 Formação educacional::
-Desenvovimento e Análise de Sistemas
-Gestão de Sistemas
+🌱 ### Formação educacional::<br>
+##### Desenvovimento e Análise de Sistemas<br>
+##### Gestão de Sistemas
 
-🔭 Atualmente trabalho em::
+🔭 ### Atualmente trabalho em::<br>
 Envolvido em vários projetos e Freelancers
 
-🌱 Estudos::
+🌱  ### Estudos::
 Sempre aprendendo novas tecnologias
 Último Curso sobre Laravel, Livewire e Filament
 
-⚡ Gosto por::
+⚡  ### Gosto por::
+
 Leitura
 Tecnologia
 Surf
 Esportes Radicais
 
-👯 Preferências::
+👯  ###Preferências::
+
  Sistema operacional - Linux (Mint)
  Linguagem - PHP
  MySql
