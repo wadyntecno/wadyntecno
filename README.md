@@ -1,6 +1,6 @@
 # Alexandre Cangelli
 
-🌱 ### Formação educacional::<br>
+### Formação educacional::🌱 
 ##### Desenvovimento e Análise de Sistemas<br>
 ##### Gestão de Sistemas
 
