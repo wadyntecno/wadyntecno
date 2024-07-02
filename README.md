@@ -7,9 +7,9 @@
 ### Atualmente trabalho em::🔭 <br>
 #### Envolvido em vários projetos e Freelancers<br>
 <br>
- ### Estudos::🌱 <br>
-#### Sempre aprendendo novas tecnologias<br>
-#### Último Curso sobre Laravel, Livewire e Filament<br>
+### Estudos::🌱 <br>
+#### Sempre aprendendo novas tecnologias
+#### nÚltimo Curso sobre Laravel, Livewire e Filament
 <br>
 ### Gosto por::⚡  <br>
 <br>
