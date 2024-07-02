@@ -12,14 +12,12 @@
 #### Último Curso sobre Laravel, Livewire e Filament<br>
 <br>
 ### Gosto por::⚡  <br>
-<br>
 #### Leitura<br>
 #### Tecnologia<br>
 #### Surf<br>
 #### Esportes Radicais<br>
-
-### Preferências::👯  <br>
 <br>
+### Preferências::👯  <br>
 #### Sistema operacional - Linux (Mint)<br>
 #### Linguagem - PHP<br>
 #### MySql<br>
@@ -45,7 +43,7 @@
 #### Laravel tips & tricks<br>
 #### PHP developers<br>
 #### HTML, CSS, JavaScript, PHP<br>
-
+<br>
 ### Artigo publicado::🌱 <br>
 #### OS DESAFIOS PARA A EMPREGABILIDADE DOS ANALISTAS E DESENVOLVEDORES DE SISTEMAS NA CIDADE SANTOS/SP: A PERSPECTIVA DE JOVENS UNIVERSITÁRIOS<br>
 #### https://periodicos.unisanta.br/index.php/ENPG/issue/view/91<br>
