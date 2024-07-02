@@ -1,8 +1,8 @@
 # Alexandre Cangelli
 <br>
-### Formação educacional::🌱 
+### Formação educacional::🌱 <br>
 #### Desenvovimento e Análise de Sistemas<br>
-#### Gestão de Sistemas
+#### Gestão de Sistemas<br>
 <br>
 ### Atualmente trabalho em::🔭 <br>
 #### Envolvido em vários projetos e Freelancers<br>
