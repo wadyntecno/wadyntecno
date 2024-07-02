@@ -1,15 +1,15 @@
 # Alexandre Cangelli
-
+<br>
 ### Formação educacional::🌱 
 #### Desenvovimento e Análise de Sistemas<br>
 #### Gestão de Sistemas
-
+<br>
 ### Atualmente trabalho em::🔭 <br>
 #### Envolvido em vários projetos e Freelancers<br>
 <br>
 ### Estudos::🌱 <br>
-#### Sempre aprendendo novas tecnologias
-#### nÚltimo Curso sobre Laravel, Livewire e Filament
+#### Sempre aprendendo novas tecnologias<br>
+#### Último Curso sobre Laravel, Livewire e Filament<br>
 <br>
 ### Gosto por::⚡  <br>
 <br>
@@ -20,22 +20,22 @@
 
 ### Preferências::👯  <br>
 <br>
- #### Sistema operacional - Linux (Mint)<br>
- #### Linguagem - PHP<br>
- #### MySql<br>
- #### SGBD - PostgreSQL<br>
- #### CSS - SASS<br>
- #### Framework CSS/JS - Bootstrap<br>
- #### Framework PHP - Laravel<br>
- #### tailwindcss <br>
- #### Wordpress<br>
- #### Python<br>
- #### Editor de Código - VSCode, Eclipse, netbeans, PhpStorm, Atom, Sublime Text<br>
-
-###  Redes sociais::💬 <br>
- #### Github<br>
- #### Facebook<br>
- #### Linkeding - https://br.linkedin.com/in/alexandre-cangelli-2a264b63<br>
+#### Sistema operacional - Linux (Mint)<br>
+#### Linguagem - PHP<br>
+#### MySql<br>
+#### SGBD - PostgreSQL<br>
+#### CSS - SASS<br>
+#### Framework CSS/JS - Bootstrap<br>
+#### Framework PHP - Laravel<br>
+#### tailwindcss <br>
+#### Wordpress<br>
+#### Python<br>
+#### Editor de Código - VSCode, Eclipse, netbeans, PhpStorm, Atom, Sublime Text<br>
+<br>
+### Redes sociais::💬 <br>
+#### Github<br>
+#### Facebook<br>
+#### Linkeding - https://br.linkedin.com/in/alexandre-cangelli-2a264b63<br>
 <br>
 ### Alguns grupos no Facebook::🤔 <br>
 #### Laravel Brasil<br>
