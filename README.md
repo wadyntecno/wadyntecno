@@ -3,14 +3,18 @@
 # Alexandre Cangelli
 
 ### Formação educacional::🌱 
+
 Desenvovimento e Análise de Sistemas
+
 Gestão de Sistemas
 
 ### Atualmente trabalho em::🔭 
 Envolvido em vários projetos e Freelancers
 
 ### Estudos::🌱 
+
 Sempre aprendendo novas tecnologias
+
 Último Curso sobre Laravel, Livewire e Filament
 
 ### Gosto por::⚡  
