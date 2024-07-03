@@ -4,16 +4,16 @@
 
 ### Formação educacional::🌱 
 
-Desenvovimento e Análise de Sistemas
+Desenvovimento e Análise de Sistemas<br>
 
-Gestão de Sistemas
+Gestão de Sistemas<br>
 
 ### Atualmente trabalho em::🔭 
 Envolvido em vários projetos e Freelancers
 
 ### Estudos::🌱 
 
-Sempre aprendendo novas tecnologias
+Sempre aprendendo novas tecnologias<br>
 
 Último Curso sobre Laravel, Livewire e Filament
 
