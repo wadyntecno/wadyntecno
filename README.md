@@ -4,9 +4,9 @@
 
 ### Formação educacional::🌱 
 
-Desenvovimento e Análise de Sistemas<br>
+Graduação em Desenvovimento e Análise de Sistemas<br>
 
-Gestão de Sistemas<br>
+Pós em Gestão de Sistemas<br>
 
 ### Atualmente trabalho em::🔭 
 Envolvido em vários projetos e Freelancers
@@ -47,6 +47,8 @@ tailwindcss
 Wordpress
 
 Python
+
+Java
 
 Editor de Código - VSCode, Eclipse, netbeans, PhpStorm, Atom, Sublime Text
 
