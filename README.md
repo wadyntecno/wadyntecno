@@ -6,7 +6,7 @@
 
 Graduação em Desenvovimento e Análise de Sistemas<br>
 
-Pós em Gestão de Sistemas<br>
+Pós-Graduação em Gestão de Sistemas<br>
 
 ### Atualmente trabalho em::🔭 
 Envolvido em vários projetos e Freelancers
